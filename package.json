@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "prop-types": "^15.8.1"
+  },
+  "dependencies": {
+    "styled-components": "^6.0.0-beta.14"
+  }
+}
